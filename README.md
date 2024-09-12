@@ -4,7 +4,7 @@
 
 ### 🛠️ Skills
 
-[![tech](https://skillicons.dev/icons?i=java,python,spring,mysql,springboot,redis&perline=7)](https://skillicons.dev)
+[![tech](https://skillicons.dev/icons?i=java,python,spring,mysql,c,redis&perline=7)](https://skillicons.dev)
 
 <br/>
 
