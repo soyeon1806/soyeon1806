@@ -1,16 +1,24 @@
-## Hi there 👋
+<div align=center>
 
-<!--
-**soyeon1806/soyeon1806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&animation=fadeIn&section=header&text=&fontAlign=70)
 
-Here are some ideas to get you started:
+### 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![tech](https://skillicons.dev/icons?i=java,python,spring,mysql,springboot,redis&perline=7)](https://skillicons.dev)
+
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="60" height="60" />
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="60" height="60" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="60" height="60" />
+</div>
+
+<br/>
+
+### ✨ Experience
+| Period  | Description  |
+|:--|:--|
+| `2024.05 ~ ing`  |   |
+| `2023.01 ~ 2023.11`  | 2023 코드스쿼드 백엔드 과정 수료 |
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&animation=fadeIn&section=footer)
+</div>
