@@ -14,5 +14,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=soyeon1806&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soyeon1806)](https://github
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&animation=fadeIn&section=footer)
 </div>
