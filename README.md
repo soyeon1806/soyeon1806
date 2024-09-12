@@ -14,11 +14,5 @@
 
 <br/>
 
-### ✨ Experience
-| Period  | Description  |
-|:--|:--|
-| `2024.05 ~ ing`  |   |
-| `2023.01 ~ 2023.11`  | 2023 코드스쿼드 백엔드 과정 수료 |
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&animation=fadeIn&section=footer)
 </div>
