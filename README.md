@@ -37,6 +37,9 @@
   <br/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=soyeon1806&show_icons=true&theme=radical"/>
+  <br/>
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soyeon1806&theme=rogue"/>
   
   <!-- Footer -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=120&animation=fadeIn&section=footer"/>
