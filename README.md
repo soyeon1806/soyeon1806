@@ -28,6 +28,9 @@
 
   <!-- Stats Section -->
   <h2>🏅 Stats</h2>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyeon1806&layout=compact&theme=dark"/>
+  <br/>
+  <br/>
   <a href="https://solved.ac/ksy1118s/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ksy1118s"/>
   </a>
