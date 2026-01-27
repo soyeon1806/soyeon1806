@@ -12,9 +12,10 @@
   <img src="https://img.shields.io/badge/tailwindcss-0F172A?&style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 
   <!-- Testing -->
+  <!--
   <h3>🧪 Frontend Testing</h3>
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white"/>  -->
 
   <h3>🖥️ Backend / Frameworks</h3>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
@@ -24,7 +25,7 @@
   <h3>🧪 Backend Testing</h3>
   <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=JUnit5&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mockito-999999?style=for-the-badge&logo=Mockito&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MockMvc-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MockMvc-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/> 
   
   <h3>🗄️ Database</h3>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
