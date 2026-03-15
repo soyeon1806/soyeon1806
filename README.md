@@ -5,28 +5,7 @@
 
   <!-- Tech Stacks Section -->
   <h2>🛠️ Skills</h2>
-  <div style="margin: 0 auto; text-align: center;">
-  <h3>🎨 Frontend</h3>
-  <img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind&perline=4" />
-
-
-  <h3>🖥️ Backend / Frameworks</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,prisma&perline=4" />
-
-
-  <h3>⚡ Runtime / Desktop</h3>
-  <img src="https://skillicons.dev/icons?i=electron&perline=4" />
-
-  
-  <h3>🗄️ Database</h3>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,redis&perline=4" />
-
-  <h3>🧰 Dev & Collaboration</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,bitbucket&perline=4" />
-  
-  <h3>⚙️ Tools</h3>
-  <img src="https://skillicons.dev/icons?i=obsidian&perline=4" />
-</div>
+  <img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,nodejs,prisma,electron,mysql,redis,sqlite,git,github,githubactions,bitbucket,obsidian,eslint&perline=5" />
 <br/>
 
   <!-- Contact Section -->
