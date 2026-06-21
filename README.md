@@ -5,7 +5,7 @@
 
   <!-- Tech Stacks Section -->
   <h2>🛠️ Skills</h2>
-  <img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,nodejs,prisma,electron,mysql,redis,sqlite,git,github,githubactions,bitbucket,obsidian,eslint&perline=5" />
+  <img src="https://skillicons.dev/icons?i=react,ts,threejs,vite,tailwind,nodejs,prisma,electron,mysql,sqlite,postgres,git,github,githubactions&perline=5" />
 <br/>
 
   <!-- Contact Section -->
